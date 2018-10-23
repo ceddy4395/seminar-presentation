@@ -1,6 +1,8 @@
 @css[headline](Diversity and Demographic Bias in Recommender Systems)
 
+@snap[south]
 @css[byline](Maaike Visser, Robin Cromjongh andf Cedric Willekens)
+@snapend
 
 Note:
     - Summary of the introduction
