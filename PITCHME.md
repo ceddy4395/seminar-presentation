@@ -1,5 +1,5 @@
 @snap[north]
-##@size[2.0em](Diversity and Demographic Bias in Recommender Systems)
+@size[2.0em](Diversity and Demographic Bias in Recommender Systems)
 @snapend
 
 @snap[south]
@@ -67,6 +67,10 @@ What our paper covers
 --- 
 
 ## Research into music recommender systems
+
+@snap[right-top]
+@fa[fa-music]
+@snapend
 
 --- 
 
