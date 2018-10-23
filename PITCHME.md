@@ -1,5 +1,7 @@
 ## Diversity and Demographic Bias in Recommender Systems
 
+Maaike Visser, Robin Cromjongh Cedric Willekens
+
 ---
 
 ## Recommender Systems
