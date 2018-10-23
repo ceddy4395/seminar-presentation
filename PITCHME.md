@@ -88,4 +88,4 @@ Questions?
 @snapend
 
 ?
-![questions](./template/img/questions3.png)
+![questions](./template/img/questions-3.png)
