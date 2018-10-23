@@ -84,7 +84,8 @@ What our paper covers
 ---
 
 @snap[top]
-?
+Questions?
 @snapend
 
+?
 ![questions](./template/img/questions2.png)
