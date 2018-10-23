@@ -13,7 +13,7 @@ published : true
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
 #
-theme : simple
+theme : night
 
 #
 # Theme-Override Setting
@@ -25,14 +25,14 @@ theme-override : template/css/PITCHME.css
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : template/img/logo.png
+logo : TU_Delft_logo_Black.png
 logo-position : top-left
 
 #
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "Diversity and Demographic Bias in Recommender Systems"
 
 #
 # Highlight (Code) Setting
