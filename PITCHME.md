@@ -41,10 +41,25 @@ What our paper covers
 
 ### Hybrid approaches
 
-
 ---
 
 ## Fairness in Recommender Systems
+
++++ 
+
+### Diversity
+
+
++++ 
+
+### Demographic Biases
+
++++
+
+### The Table
+
+![TableOfPapers](table.PNG)
+
 
 --- 
 
