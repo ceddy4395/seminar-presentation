@@ -4,11 +4,11 @@
 
 ---
 
-@snap[west span-50]
+@snap[west span-45]
 What our paper covers
 @snapend
 
-@snap[east text-white span-45]
+@snap[east text-white span-50]
 
 @ol
   - Recommender Systems
