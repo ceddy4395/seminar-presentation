@@ -1,10 +1,10 @@
-## Diversity and Demographic Bias in Recommender Systems
+@css[headline](Diversity and Demographic Bias in Recommender Systems)
 
-Maaike Visser, Robin Cromjongh andf Cedric Willekens
+@css[byline](Maaike Visser, Robin Cromjongh andf Cedric Willekens)
 
 ---
 
-@snap[west text-orange span-50]
+@snap[west span-50]
 What our paper covers
 @snapend
 
