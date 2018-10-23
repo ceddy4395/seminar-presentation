@@ -69,7 +69,7 @@ What our paper covers
 ## Research into music recommender systems
 
 @snap[right-top]
-@fa[fa-music]
+@fa[fas fa-music]
 @snapend
 
 --- 
