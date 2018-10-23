@@ -29,6 +29,19 @@ What our paper covers
 
 ## Recommender Systems
 
++++ 
+
+### Content based approaches
+
++++ 
+
+### Collaborative approaches
+
++++ 
+
+### Hybrid approaches
+
+
 ---
 
 ## Fairness in Recommender Systems
