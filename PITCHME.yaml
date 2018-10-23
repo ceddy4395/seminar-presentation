@@ -54,3 +54,6 @@ layout : center
 #
 transition : none
 
+slide-number: true
+
+loop: true
