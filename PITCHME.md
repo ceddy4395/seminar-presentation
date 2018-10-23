@@ -2,6 +2,11 @@
 
 @css[byline](Maaike Visser, Robin Cromjongh andf Cedric Willekens)
 
+Note:
+    - Summary of the introduction
+    - Why we want to look into music?
+    - Mention the 3 sub questions?
+
 ---
 
 @snap[west span-45]
@@ -18,12 +23,6 @@ What our paper covers
 @olend
 
 @snapend
-
-@ul[square-bullets]
-
-  
-
-@ulend
 
 ---
 
