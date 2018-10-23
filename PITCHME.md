@@ -7,7 +7,7 @@
 @snapend
 
 Note:
-    - Summary of the introduction
+  - Summary of the introduction
     - Why we want to look into music?
     - Mention the 3 sub questions?
 
@@ -68,7 +68,7 @@ What our paper covers
 
 ## Research into music recommender systems
 
-@snap[top-rigght]
+@snap[top-right]
 @fa[fas fa-music]
 @snapend
 
