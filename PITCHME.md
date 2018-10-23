@@ -1,5 +1,5 @@
 @snap[north]
-@css[headline](Diversity and Demographic Bias in Recommender Systems)
+##@size[2.0em](Diversity and Demographic Bias in Recommender Systems)
 @snapend
 
 @snap[south]
