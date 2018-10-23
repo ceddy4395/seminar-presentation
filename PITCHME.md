@@ -68,7 +68,7 @@ What our paper covers
 
 ## Research into music recommender systems
 
-@snap[top-right]
+@snap[top-left]
 @fa[fas fa-music]
 @snapend
 
@@ -87,5 +87,4 @@ What our paper covers
 Questions?
 @snapend
 
-?
 ![questions](./template/img/questions-3.png)
