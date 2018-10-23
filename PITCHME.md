@@ -4,8 +4,6 @@ Maaike Visser, Robin Cromjongh andf Cedric Willekens
 
 ---
 
-## Table of contents?
-
 @snap[west text-orange span-50]
 What our paper covers
 @snapend
