@@ -56,4 +56,4 @@ transition : none
 
 slide-number: true
 
-loop: true
+loop: false

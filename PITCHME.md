@@ -68,7 +68,7 @@ What our paper covers
 
 ## Research into music recommender systems
 
-@snap[right-top]
+@snap[top-rigght]
 @fa[fas fa-music]
 @snapend
 
