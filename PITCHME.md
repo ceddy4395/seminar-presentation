@@ -3,14 +3,27 @@
 @snapend
 
 @snap[south]
-@css[byline](Maaike Visser, Robin Cromjongh andf Cedric Willekens)
+@css[byline](Maaike Visser, Robin Cromjongh and Cedric Willekens)
 @snapend
 
 Note:
   - Summary of the introduction
     - Why we want to look into music?
-    - Mention the 3 sub questions?
+    - Mention the 2 research questions?
+    - This paper is not so much computer science oriented
 
+---
+
+@snap[west span 30]
+Research questions
+@snapend
+
+@snap[east span-50]
+@ol
+  - What efferst have been made by the community to increase fairness in recommender systems?
+  - What efforts have been to increase fairness in music recommender systems in particular?
+@olend
+@snapend
 ---
 
 @snap[west span-45]
