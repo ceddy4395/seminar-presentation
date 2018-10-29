@@ -1,5 +1,5 @@
 @snap[north]
-@size[2.0em](Diversity and Demographic Bias in Recommender Systems)
+@size[2.0em](Diversity and Demographic Bias in Recommender Systems with a focus on the  music industry)
 @snapend
 
 @snap[south]
@@ -116,12 +116,16 @@ note:
 
 --- 
 
-@snap[top-left]
-@fa[fas fa-music]
-@snapend
+## Fairness in music recommender systems
+@ul
+  - Only a small fraction of the research done considers fairness in music recommender systems
+  - None of these focus on producers or on demographic biases
+  - Lot of research about increasing of diversity
+    - but not about the effect on the producers
+@ulend
 
-
-## Research into music recommender systems
+note: 
+  - From the table we can see that there is only a limited number of papers (5) considers fairness for music recommender systems. Furthermore none of these 5 papers focus on the music producers or on demograhpic biases. This means that the papers about music mainly cover the topics of diversity, but not how this effects the producer. 
 
 --- 
 
