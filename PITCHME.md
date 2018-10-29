@@ -68,9 +68,22 @@ note:
 
 ### Collaborative approaches
 
+@ul
+  - Recoomendations based on likings of a peer user
+  - Problem for new users with limited information available about them
+  - cold start problem
+  - danger of overspecialization
+@ulend
 +++ 
 
 ### Hybrid approaches
+
+@ol
+  - Implement bosh collaborative and content based approach
+  - Incorperate some content based characteristics into collaborative approaches
+  - Incorperate some collaborative appraoches characteristics into content based approaches
+  - construct a model which unifies content and Collaborative approaches.
+@olend
 
 ---
 
