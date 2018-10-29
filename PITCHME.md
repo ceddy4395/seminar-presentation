@@ -90,7 +90,7 @@ note:
 
 ---
 
-## Fairness in Recommender Systems
+### Fairness in Recommender Systems
 
 note: 
   - Fairness of rec sys has recently gained more attation. This is a tricky measurement because it has many aspects. In our paper we considered fairness in diversity and demograhpic biases. Furthermore we also looked at not only the fairness towards the user but also towards the producer. 
@@ -115,7 +115,8 @@ note:
   - Collecting all the literature we have read for this paper we have created a table to indicate which topic each of these papers cover. Our findings from this table will be discussed in the next section. 
 
 --- 
-## @size[1.5em](Fairness in music recommender systems)
+### Fairness in music recommender systems
+<!-- @size[0.5em](Fairness in music recommender systems) -->
 
 @ul
   - Only a small fraction of the research done considers fairness in music recommender systems
