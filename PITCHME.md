@@ -79,19 +79,26 @@ note:
 ### Hybrid approaches
 
 @ol
-  - Implement bosh collaborative and content based approach
+  - Implement both collaborative and content based approach
   - Incorperate some content based characteristics into collaborative approaches
   - Incorperate some collaborative appraoches characteristics into content based approaches
   - construct a model which unifies content and Collaborative approaches.
 @olend
 
+note: 
+  - The idea is that we combine collaborative and content based approaches. This can be done in 4 ways. first way ... 
+
 ---
 
 ## Fairness in Recommender Systems
 
+note: 
+  - Fairness of rec sys has recently gained more attation. This is a tricky measurement because it has many aspects. In our paper we considered fairness in diversity and demograhpic biases. Furthermore we also looked at not only the fairness towards the user but also towards the producer. 
+
 +++ 
 
 ### Diversity
+
 
 
 +++ 
@@ -104,15 +111,17 @@ note:
 
 ![TableOfPapers](table.PNG)
 
+note: 
+  - Collecting all the literature we have read for this paper we have created a table to indicate which topic each of these papers cover. Our findings from this table will be discussed in the next section. 
 
 --- 
-
-## Research into music recommender systems
 
 @snap[top-left]
 @fa[fas fa-music]
 @snapend
 
+
+## Research into music recommender systems
 
 --- 
 
