@@ -115,8 +115,8 @@ note:
   - Collecting all the literature we have read for this paper we have created a table to indicate which topic each of these papers cover. Our findings from this table will be discussed in the next section. 
 
 --- 
-
 ## Fairness in music recommender systems
+
 @ul
   - Only a small fraction of the research done considers fairness in music recommender systems
   - None of these focus on producers or on demographic biases
