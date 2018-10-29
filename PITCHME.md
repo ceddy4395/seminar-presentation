@@ -130,9 +130,26 @@ note:
 
 --- 
 
-## Conclusion
+### Conclusion
+
+@ul
+  - Limited amount of research done on demographic bia compared to diversity
+  - Most papers do not explicitly consider producers
+  - There is a lack of research into music potentially due to a lack of available databases. 
+@ulend
 
 --- 
+
+### Recommendations
+
+@ol
+  - Effort needed to collect more anonymous datasets
+  - Looking into the effects of current recommender systems on producers
+  - Looking into the existence of demographic bias
+  - The effect of recommender systems on fiarness in the music industry
+@olend
+
+---
 
 ![Thank you](./template/img/thanks.jpg)
 
