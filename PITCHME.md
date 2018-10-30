@@ -129,6 +129,7 @@ note:
 note: 
   - From the table we can see that there is only a limited number of papers (5) considers fairness for music recommender systems. Furthermore none of these 5 papers focus on the music producers or on demograhpic biases. This means that the papers about music mainly cover the topics of diversity, but not how this effects the producer. 
 
+---
 
 ### The Table
 
