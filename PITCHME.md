@@ -1,5 +1,5 @@
 @snap[north]
-@size[2.0em](Diversity and Demographic Bias in Recommender Systems with a focus on the  music industry)
+@size[1.5em](Diversity and Demographic Bias in Recommender Systems with a focus on the  music industry)
 @snapend
 
 @snap[south]
