@@ -1,5 +1,5 @@
 @snap[north]
-@size[1.5em](Diversity and Demographic Bias in Recommender Systems with a focus on the  music industry)
+@size[1.5em](Diversity and Demographic Bias in Recommender Systems with a Focus on the  Music Industry)
 @snapend
 
 @snap[south]
@@ -172,7 +172,7 @@ note:
 
 ---
 
-### Refernces
+
 @snap[west span-50]
 
 ![references 1](./references1.PNG)
