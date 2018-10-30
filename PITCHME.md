@@ -72,8 +72,8 @@ note:
   - Recommendations based on items peer users have rated
   - Problem for new users with limited information available about them
   - Cold start problem  
-    - Sub-optimal recommendations for new users
-    - Missing ratings for new items
+    * Sub-optimal recommendations for new users
+    * Missing ratings for new items
   - Danger of overspecialization
 @ulend
 +++ 
