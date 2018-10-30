@@ -107,8 +107,6 @@ note:
   - Producers who are not in this filter bubble will have a limited amount of sales
 - Popularity bias
   - Items which are already popular will get more recommendations (rich-get-richer)
-  - Users will only get recommendations of very popular items
-  - Less popular producers will not be recommended 
 @ulend
 
 +++ 
