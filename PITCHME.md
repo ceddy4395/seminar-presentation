@@ -100,14 +100,15 @@ note:
 
 ### Diversity
 @ul
-- filter bubbles
+- Filter bubbles
   - Causes narrowing of preferences 
   - Bubbles will form with people with exact same preference
   - Users will be less satisified 
   - Producers who are not in this filter bubble will have a limited amount of sales
-- popularity bias
-  - What is it?
-  - Effect on user/producer
+- Popularity bias
+  - Items which are already popular will get more recommendations (rich-get-richer)
+  - Users will only get recommendations of very popular items
+  - Less popular producers will not be recommended 
 @ulend
 
 +++ 
@@ -115,8 +116,8 @@ note:
 ### Demographic Biases
 
 @ul
-- What is it? 
-- Why undesirable
+- Occurs when a recommender systems behaves differently for different groups
+- People in minority groups will drift futher apart 
 @ulend
 
 +++
