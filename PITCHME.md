@@ -60,9 +60,9 @@ note:
 ### Content based approaches
 
 @ul
-  - Recommend items similar to those the user has already expressed interest towards
-  - features to compare these items with are difficult to extract
-  - danger of overspecialization
+- Recommend items similar to those the user has already expressed interest towards
+- features to compare these items with are difficult to extract
+- danger of overspecialization
 @ulend
 +++ 
 
@@ -70,7 +70,6 @@ note:
 
 @ul[spaced-list-items]
 - Recommendations based on items peer users have rated
-- Problem for new users with limited information available about them
 - Cold start problem  
   + Sub-optimal recommendations for new users
   + Missing ratings for new items
@@ -80,11 +79,11 @@ note:
 
 ### Hybrid approaches
 
-@ul
-  - Implement both collaborative and content based approach
+@ul[spaced-list-items]
+- Implementation combines collaborative and content based approach
   - Incorperate some content based characteristics into collaborative approaches
   - Incorperate some collaborative appraoches characteristics into content based approaches
-  - Construct a model which unifies content and Collaborative approaches.
+  - Construct a model which unifies content and collaborative approaches.
 @ulend
 
 note: 
@@ -100,13 +99,24 @@ note:
 +++ 
 
 ### Diversity
-
-
+@ul
+- filter bubbles
+  - What are they? 
+  - How do they form
+  - Effect on user/producer
+- popularity bias
+  - What is it?
+  - Effect on user/producer
+@ulend
 
 +++ 
 
 ### Demographic Biases
 
+@ul
+  - What is it? 
+  - Why undesirable
+@ulend
 
 +++
 
@@ -126,10 +136,9 @@ note:
 <!-- @size[0.5em](Fairness in music recommender systems) -->
 
 @ul
-  - Only a small fraction of the research done considers fairness in music recommender systems
-  - None of these focus on producers or on demographic biases
-  - Lot of research about increasing of diversity
-    - But not about the effect on the producers
+- A small fraction of the research done considers fairness in music recommender systems
+- No focus on producers or on demographic biases
+- Lot of research about increasing diversity, but not about the effect on the producers,.!‽
 @ulend
 
 
