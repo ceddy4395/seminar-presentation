@@ -106,10 +106,13 @@ note:
 ### Demographic Biases
 
 +++
-
+@snap[east span-20]
 ### The Table
+@snapend
 
+@snap[west span-80]
 ![TableOfPapers](table.PNG)
+@spanend
 
 note: 
   - Collecting all the literature we have read for this paper we have created a table to indicate which topic each of these papers cover. Our findings from this table will be discussed in the next section. 
@@ -130,16 +133,6 @@ note:
   - From the table we can see that there is only a limited number of papers (5) considers fairness for music recommender systems. Furthermore none of these 5 papers focus on the music producers or on demograhpic biases. This means that the papers about music mainly cover the topics of diversity, but not how this effects the producer. 
 
 ---
-
-### The Table
-
-![TableOfPapers](table.PNG)
-
-note: 
-  - The table is presented for the second time
-  - Now explain what we have found aka not a lot of research for music
-
---- 
 
 ### Conclusion
 
