@@ -20,8 +20,8 @@ Research questions
 
 @snap[east span-50]
 @ol
-  - What efforts have been made by the community to increase fairness in recommender systems?
-  - What efforts have been made to increase fairness in music recommender systems in particular?
+- What efforts have been made by the community to increase fairness in recommender systems?
+- What efforts have been made to increase fairness in music recommender systems in particular?
 @olend
 @snapend
 
@@ -39,10 +39,10 @@ What our paper covers
 @snap[east text-white span-50]
 
 @ol
-  - Recommender Systems
-  - Fairness in Recommender Systems
-  - Fairness in music recommender systems
-  - Conclusion and recommendations
+- Recommender Systems
+- Fairness in Recommender Systems
+- Fairness in music recommender systems
+- Conclusion and recommendations
 @olend
 
 @snapend
@@ -114,8 +114,8 @@ note:
 ### Demographic Biases
 
 @ul
-  - What is it? 
-  - Why undesirable
+- What is it? 
+- Why undesirable
 @ulend
 
 +++
@@ -138,7 +138,7 @@ note:
 @ul
 - A small fraction of the research done considers fairness in music recommender systems
 - No focus on producers or on demographic biases
-- Lot of research about increasing diversity, but not about the effect on the producers,.!‽
+- Lot of research about increasing diversity, but not about the effect on the producers
 @ulend
 
 
@@ -147,12 +147,12 @@ note:
 
 ---
 
-### Conclusion
+### General Conclusion
 
 @ul
-  - Limited amount of research done on demographic bia compared to diversity
-  - Most papers do not explicitly consider producers
-  - There is a lack of research into music potentially due to a lack of available databases. 
+- Limited amount of research done on demographic bias compared to diversity
+- Most papers do not explicitly consider producers
+- There is a lack of research into music potentially due to a lack of available databases. 
 @ulend
 
 --- 
@@ -160,10 +160,10 @@ note:
 ### Recommendations
 
 @ol
-  - Effort needed to collect more anonymous datasets
-  - Looking into the effects of current recommender systems on producers
-  - Looking into the existence of demographic bias
-  - The effect of recommender systems on fiarness in the music industry
+- Effort needed to collect more anonymous datasets
+- Looking into the effects of current recommender systems on producers
+- Looking into the existence of demographic bias
+- The effect of recommender systems on fiarness in the music industry
 @olend
 
 ---
