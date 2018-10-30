@@ -108,7 +108,7 @@ note:
 +++
 
 @snap[west span-20]
-### The Table
+The Table
 @snapend
 
 @snap[east span-80]
