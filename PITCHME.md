@@ -106,13 +106,14 @@ note:
 ### Demographic Biases
 
 +++
-@snap[east span-20]
+
+@snap[west span-20]
 ### The Table
 @snapend
 
-@snap[west span-80]
+@snap[east span-80]
 ![TableOfPapers](table.PNG)
-@spanend
+@snapend
 
 note: 
   - Collecting all the literature we have read for this paper we have created a table to indicate which topic each of these papers cover. Our findings from this table will be discussed in the next section. 
