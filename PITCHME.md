@@ -21,7 +21,7 @@ Research questions
 @snap[east span-50]
 @ol
   - What efforts have been made by the community to increase fairness in recommender systems?
-  - What efforts have been to increase fairness in music recommender systems in particular?
+  - What efforts have been made to increase fairness in music recommender systems in particular?
 @olend
 @snapend
 
@@ -69,21 +69,23 @@ note:
 ### Collaborative approaches
 
 @ul
-  - Recoomendations based on likings of a peer user
+  - Recommendations based on items peer users have rated
   - Problem for new users with limited information available about them
-  - cold start problem
-  - danger of overspecialization
+  - Cold start problem  
+    - Sub-optimal recommendations for new users
+    - Missing ratings for new items
+  - Danger of overspecialization
 @ulend
 +++ 
 
 ### Hybrid approaches
 
-@ol
+@ul
   - Implement both collaborative and content based approach
   - Incorperate some content based characteristics into collaborative approaches
   - Incorperate some collaborative appraoches characteristics into content based approaches
-  - construct a model which unifies content and Collaborative approaches.
-@olend
+  - Construct a model which unifies content and Collaborative approaches.
+@ulend
 
 note: 
   - The idea is that we combine collaborative and content based approaches. This can be done in 4 ways. first way ... 
@@ -104,6 +106,7 @@ note:
 +++ 
 
 ### Demographic Biases
+
 
 +++
 
@@ -126,7 +129,7 @@ note:
   - Only a small fraction of the research done considers fairness in music recommender systems
   - None of these focus on producers or on demographic biases
   - Lot of research about increasing of diversity
-    - but not about the effect on the producers
+    - But not about the effect on the producers
 @ulend
 
 
