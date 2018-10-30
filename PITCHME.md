@@ -147,7 +147,7 @@ note:
 
 ---
 
-### General Conclusion
+### General Conclusions
 
 @ul
 - Limited amount of research done on demographic bias compared to diversity
@@ -160,10 +160,10 @@ note:
 ### Recommendations
 
 @ol
-- Effort needed to collect more anonymous datasets
-- Looking into the effects of current recommender systems on producers
-- Looking into the existence of demographic bias
-- The effect of recommender systems on fiarness in the music industry
+- Collect more anonymous datasets
+- Look into the effects of current recommender systems on producers
+- Look into the existence of demographic bias
+- Examine the effect of recommender systems on fiarness in the music industry
 @olend
 
 ---
