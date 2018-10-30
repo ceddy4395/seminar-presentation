@@ -101,9 +101,10 @@ note:
 ### Diversity
 @ul
 - filter bubbles
-  - What are they? 
-  - How do they form
-  - Effect on user/producer
+  - Causes narrowing of preferences 
+  - Bubbles will form with people with exact same preference
+  - Users will be less satisified 
+  - Producers who are not in this filter bubble will have a limited amount of sales
 - popularity bias
   - What is it?
   - Effect on user/producer
