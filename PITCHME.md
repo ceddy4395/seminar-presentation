@@ -192,7 +192,7 @@ note:
 - Collect more anonymous datasets
 - Look into the effects of current recommender systems on producers
 - Look into the existence of demographic bias
-- Examine the effect of recommender systems on fiarness in the music industry
+- Examine the effect of recommender systems on fairness in the music industry
 @olend
 
 ---
