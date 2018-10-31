@@ -66,6 +66,7 @@ note:
 - Danger of overspecialization
 
 note: 
+  - 3 approaches -> content, collaborative and hybrid
   - overspecialization -> news article example
 
 @ulend
