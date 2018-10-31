@@ -1,10 +1,10 @@
-@snap[north]
+<!-- @snap[north] -->
 @size[1.5em](Diversity and Demographic Bias in Recommender Systems with a Focus on the  Music Industry)
-@snapend
+<!-- @snapend -->
 
-@snap[south]
+<!-- @snap[south] -->
 @css[byline](Maaike Visser, Robin Cromjongh and Cedric Willekens)
-@snapend
+<!-- @snapend -->
 
 Note:
   - Summary of the introduction
@@ -53,7 +53,8 @@ What our paper covers
 ## Recommender Systems
 
 note: 
-  - so before we can talk about rec syss we need to talk about what kind of systems there exist and how they work. The 3 main ones are content based approach, collaborative approach and the hybrid approach. We will start of with the content based approach. 
+  - The 3 main ones are content based approach, collaborative approach and the hybrid approach. 
+  - We will start of with the content based approach. 
 
 +++ 
 
@@ -63,6 +64,10 @@ note:
 - Recommend items similar to those the user has already expressed interest towards
 - Features to compare these items with are difficult to extract
 - Danger of overspecialization
+
+note: 
+  - overspecialization -> news article example
+
 @ulend
 +++ 
 
@@ -75,6 +80,13 @@ note:
   + Missing ratings for new items
 - Danger of overspecialization
 @ulend
+
+note: 
+  - user gets a peer user assigned. 
+  - User who is similar
+
+  - Difficult to assign people to a peer user
+
 +++ 
 
 ### Hybrid approaches
@@ -100,8 +112,8 @@ note:
 ### Diversity
 @ul
 - Filter bubbles
-  - Causes narrowing of preferences 
   - Bubbles will form with people with exact same preference
+  - Causes narrowing of preferences 
   - Users will be less satisified 
   - Producers who are not in this filter bubble will have a limited amount of sales
 - Popularity bias
