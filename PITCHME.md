@@ -61,8 +61,8 @@ note:
 
 @ul
 - Recommend items similar to those the user has already expressed interest towards
-- features to compare these items with are difficult to extract
-- danger of overspecialization
+- Features to compare these items with are difficult to extract
+- Danger of overspecialization
 @ulend
 +++ 
 
@@ -80,10 +80,9 @@ note:
 ### Hybrid approaches
 
 @ul[spaced-list-items]
-- Implementation combines collaborative and content based approach
-  - Incorperate some content based characteristics into collaborative approaches
-  - Incorperate some collaborative appraoches characteristics into content based approaches
-  - Construct a model which unifies content and collaborative approaches.
+- Incorperate some content based characteristics into collaborative approaches
+- Incorperate some collaborative appraoches characteristics into content based approaches
+- Construct a model which unifies content and collaborative approaches.
 @ulend
 
 note: 
@@ -115,7 +114,7 @@ note:
 
 @ul
 - Occurs when a recommender systems behaves differently for different groups
-- People in minority groups will drift futher apart 
+- People in minority groups are not treated equally to the majority groups
 @ulend
 
 +++
