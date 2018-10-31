@@ -61,15 +61,15 @@ note:
 ### Content based approaches
 
 @ul
-- Recommend items similar to those the user has already expressed interest towards
-- Features to compare these items with are difficult to extract
+- Recommend items similar to those the user has already expressed interest in
+- Features that represent items are difficult to extract
 - Danger of overspecialization
+@ulend
 
 note: 
   - 3 approaches -> content, collaborative and hybrid
   - overspecialization -> news article example
 
-@ulend
 +++ 
 
 ### Collaborative approaches
@@ -93,9 +93,10 @@ note:
 ### Hybrid approaches
 
 @ul[spaced-list-items]
-- Incorperate some content based characteristics into collaborative approaches
-- Incorperate some collaborative appraoches characteristics into content based approaches
-- Construct a model which unifies content and collaborative approaches.
+- Implement collaborative and content based approaches separately and combine outcomes
+- Incorporate some content based characteristics into collaborative approaches
+- Incorporate some collaborative approach characteristics into content based approaches
+- Construct a model which unifies content based and collaborative approaches.
 @ulend
 
 note: 
@@ -113,12 +114,12 @@ note:
 ### Diversity
 @ul
 - Filter bubbles
-  - Bubbles will form with people with exact same preference
-  - Causes narrowing of preferences 
-  - Users will be less satisified 
-  - Producers who are not in this filter bubble will have a limited amount of sales
+  - "Bubble" of content similar to previously liked items
+  - Users are not challenged to broaden their viewpoints and preferences 
+  - Users are less satisified 
+  - Producers outside the bubble receive less exposure
 - Popularity bias
-  - Items which are already popular will get more recommendations (rich-get-richer)
+  - Items which are already popular get more recommendations (rich-get-richer)
 @ulend
 
 +++ 
@@ -126,8 +127,9 @@ note:
 ### Demographic Biases
 
 @ul
-- Occurs when a recommender systems behaves differently for different groups
-- People in minority groups are not treated equally to the majority groups
+- Occurs when a recommender system behaves differently for different groups
+- Minority groups are impacted negatively
+- Exacerbates biased human behavior
 @ulend
 
 +++
@@ -144,6 +146,30 @@ note:
   - Collecting all the literature we have read for this paper we have created a table to indicate which topic each of these papers cover. Our findings from this table will be discussed in the next section. 
 
 --- 
+
+### General Conclusions
+
+@ul
+- Limited amount of research done on demographic bias compared to diversity
+- Most papers do not explicitly consider producers
+- There is a lack of research into music potentially due to a lack of available databases. 
+@ulend
+
+--- 
+
+@snap[west span-20]
+The Table
+@snapend
+
+@snap[east span-80]
+![TableOfPapers](table.PNG)
+@snapend
+
+note: 
+  - Collecting all the literature we have read for this paper we have created a table to indicate which topic each of these papers cover. Our findings from this table will be discussed in the next section. 
+
+--- 
+
 ### Fairness in music recommender systems
 <!-- @size[0.5em](Fairness in music recommender systems) -->
 
@@ -159,15 +185,6 @@ note:
 
 ---
 
-### General Conclusions
-
-@ul
-- Limited amount of research done on demographic bias compared to diversity
-- Most papers do not explicitly consider producers
-- There is a lack of research into music potentially due to a lack of available databases. 
-@ulend
-
---- 
 
 ### Recommendations
 
